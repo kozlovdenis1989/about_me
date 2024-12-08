@@ -1,4 +1,4 @@
-![](https://github.com/kozlovdenis1989/about_me/blob/main/about.jpg)
+![Alt text](https://github.com/kozlovdenis1989/about_me/blob/main/about.jpg)
 # Я 
 * ответственный
 * проактивный

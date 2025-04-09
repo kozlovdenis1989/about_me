@@ -1,4 +1,5 @@
-![Скриншот_2025-04-09-17-11-14-865_ru.hh.android-edit](https://github.com/kozlovdenis1989/about_me/blob/main/Screenshot_2025-04-09-17-11-14-865_ru.hh.android-edit.jpg)
+![фото](https://github.com/kozlovdenis1989/about_me/blob/main/Screenshot_2025-04-09-17-11-14-865_ru.hh.android-edit.jpg)
+
 # Козлов Денис Юрьевич
 
 📍 Москва  

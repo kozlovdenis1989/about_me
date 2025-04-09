@@ -52,4 +52,4 @@
 
 Я обладаю базовыми знаниями, но готов учиться и развиваться в программировании. Открыт для новых возможностей и сотрудничества, где смогу приносить пользу и расти как специалист.
 
-![Скриншот_2025-04-09-17-11-14-865_ru.hh.android-edit](https://github.com/user-attachments/assets/1c4aa63a-d0c8-41d6-a6b2-87c310c02b74)
+![Скриншот_2025-04-09-17-11-14-865_ru.hh.android-edit](https://github.com/kozlovdenis1989/about_me/blob/main/Screenshot_2025-04-09-17-11-14-865_ru.hh.android-edit.jpg)

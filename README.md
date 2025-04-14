@@ -26,10 +26,10 @@
 ## Навыки
 
 - **Языки программирования**: Python
-- **Фреймворки**: Django, Django REST Framework (DRF), Selenium
-- **Библиотеки**: Requests, SQLAlchemy, Telebot
+- **Фреймворки**: Django,FastApi, Django REST Framework (DRF), Selenium
+- **Библиотеки**: Requests, SQLAlchemy, Alembic,Telebot
 - **Базы данных**: PostgreSQL, MySQL, SQLite
-- **Инструменты**: Git, DBeaver
+- **Инструменты**: Git, Docker, Docker-compose
 - **Операционные системы**: Linux
 
 ## Проекты

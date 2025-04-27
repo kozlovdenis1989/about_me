@@ -49,12 +49,12 @@
 **Технологии**: Django, MySQL, g4f  
 
 ### 4. Платформа для обмена вещами.
-https://github.com/kozlovdenis1989/change
+💻[https://github.com/kozlovdenis1989/change](https://github.com/kozlovdenis1989/change/tree/develop)
 Пользователи могут выкладывать свои объявления, предлагать обмен, друг другу
 **Технологии**: Django, posgresql, pytest, docker, docker-compose  
 
 ### 5. Небольшой Api на fastapi для бронирования столиков в ресторане
-https://github.com/kozlovdenis1989/book_service
+💻[https://github.com/kozlovdenis1989/book_service](https://github.com/kozlovdenis1989/book_service#)
 Можно создавать столики и бронировать их на разные даты и время с гарантией непересечения времени бронирований на одном столике. 
 **Технологии**: fastApi, posgresql, sqlalchemy, alembic, pytest, docker, docker-compose
 
